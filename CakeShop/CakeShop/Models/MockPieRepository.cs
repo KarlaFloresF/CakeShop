@@ -12,7 +12,7 @@ namespace CakeShop.Models
         {
             if (_pies == null)
             {
-
+                InitializePies();
             }
         }
 
